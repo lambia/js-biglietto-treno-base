@@ -23,5 +23,5 @@ Scrivete il risultato in un elemento in pagina (es. un tag div)
 Per verificare che la vostra logica sui prezzi funzioni correttamente, provate a verificare quanto segue:
 
 - 100km, 10 anni => prezzo corretto:  €16.80
-- 100m, 30 anni => prezzo corretto: €21.00
+- 100km, 30 anni => prezzo corretto: €21.00
 - 100km, 70 anni => prezzo corretto: €12.60
